@@ -1,6 +1,5 @@
 title:            "muan.co"
-url:              https://muuee.github.io
-baseurl:          /site
+url:              https://muuee.github.io/site
 permalink:        pretty
 google_analytics: UA-21332781-7
 timezone:         Asia/Taipei
