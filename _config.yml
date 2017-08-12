@@ -1,8 +1,8 @@
-title:            "muan.co"
+title:            "muuee"
 url:              https://muuee.github.io
 permalink:        pretty
 google_analytics: UA-21332781-7
-timezone:         Asia/Taipei
+timezone:         Europe/Rome
 sass:
   sass_dir: assets
   style: :compressed
