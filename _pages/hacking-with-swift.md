@@ -1,21 +1,23 @@
 ---
 layout: default
-title: Hacking with Swift
+title: Hướng dẫn thanh toán chuyển khoản với Tiếp
 feature: 1
 image_text: |
   :red_apple::telephone:
-  Hacking with Swift
+  Hướng dẫn thanh toán chuyển khoản với Tiếp
 ---
 
 Trying out [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui). This would probably be my 5th attempt for learning iOS/macOS development. 🤞 [Hopefully I keep this up](https://mobile.twitter.com/muanchiou/status/1302195083333206017).
 
-## Day 10
+## Danh sách ngân hàng
 TBD.
 
 I didn't forget about this. I have been busy.
 
-## Day 9
-2020/09/14
+## Hình ảnh dùng chung
+
+
+![Danh sách ngân hàng Tiếp dùng](/images/tiep/nganhang.png)
 
 - Day 16 – Project 1, part one
 
