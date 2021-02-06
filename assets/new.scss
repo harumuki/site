@@ -1,9 +1,53 @@
 ---
+modes:
+  light:
+    foreground: "#353735"
+    background: "#fdfdfd"
+    link_foreground: "#070c10"
+    mark_background: "#efefef"
+  dark:
+    foreground: "#fdfdfd"
+    background: "#1b1b1b"
+    link_foreground: "#fafff7"
+    mark_background: "#303030"
 ---
 
+dark-mode {
+  color: {{ page.modes.dark.foreground }};
+  background: {{ page.modes.dark.background }};
+
+  mark {
+    color: {{ page.modes.dark.foreground }};
+    background: {{ page.modes.dark.mark_background }};
+  }
+
+  a {
+    color: {{ page.modes.dark.link_foreground }};
+
+    &:hover {
+      background: {{ page.modes.dark.foreground }};
+      color: {{ page.modes.dark.background }};
+    }
+  }
+
+  button {
+    background-color: {{ page.modes.dark.foreground }};
+    color: {{ page.modes.dark.background }};
+    border: 0;
+  }
+
+  .highlight {
+    background-color: {{ page.modes.dark.foreground}};
+  }
+
+  code, pre {
+    color: {{ page.modes.dark.background }}
+  }
+}
+
 body {
-  background: #f9f9f9;
-  color: #454545;
+  background: {{ page.modes.light.background }};
+  color: {{ page.modes.light.foreground }};
   font-family: 'Cousine', monospace;
   line-height: 1.65rem;
   padding: 0 2.5em;
@@ -13,7 +57,13 @@ body {
 }
 
 a {
-  color: #329;
+  color: {{ page.modes.light.link_foreground }};
+
+  &:hover {
+    text-decoration: none;
+    background: {{ page.modes.light.foreground }};
+    color: {{ page.modes.light.background }};
+  }
 }
 
 *:focus {
@@ -133,7 +183,7 @@ footer {
 .note {
   scroll-margin: 2em;
   padding: 1.5em 2em;
-  background: #fcfcfc;
+  background: {{ page.modes.dark.foreground }};
   border-radius: 3px;
   font-family: system-ui, sans-serif;
   transition: box-shadow .8s;
@@ -146,7 +196,7 @@ footer {
   font-size: .7rem;
   font-weight: normal;
   margin: 0;
-  color: #666;
+  color: {{ page.modes.light.background }};
 
   a {
     color: inherit;
@@ -160,7 +210,7 @@ blockquote {
     font-size: 2rem;
     position: absolute;
     margin-left: -.5em;
-    color: #434343;
+    color: {{ page.modes.light.background }};
     font-family: sans-serif;
   }
 }
