@@ -48,7 +48,7 @@ modes:
 body {
   background: {{ page.modes.light.background }};
   color: {{ page.modes.light.foreground }};
-  font-family: 'Cousine', monospace;
+  font-family: 'Inter', sans-serif;
   line-height: 1.65rem;
   padding: 0 2.5em;
   margin: 0;
