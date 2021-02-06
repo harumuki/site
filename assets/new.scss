@@ -257,3 +257,13 @@ article {
 .entry {
   margin-bottom: 3em;
 }
+
+button {
+  background-color: {{ page.modes.light.foreground }};
+  color: {{ page.modes.light.background }};
+  border: 0;
+}
+
+.no-underline {
+  text-decoration: none;
+}
