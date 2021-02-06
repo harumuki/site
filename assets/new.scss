@@ -12,7 +12,7 @@ modes:
     mark_background: "#303030"
 ---
 
-dark-mode {
+.dark-mode {
   color: {{ page.modes.dark.foreground }};
   background: {{ page.modes.dark.background }};
 
