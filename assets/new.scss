@@ -210,7 +210,7 @@ blockquote {
     font-size: 2rem;
     position: absolute;
     margin-left: -.5em;
-    color: {{ page.modes.light.background }};
+    color: {{ page.modes.dark.background }};
     font-family: sans-serif;
   }
 }
