@@ -38,9 +38,11 @@
   </head>
   <body>
     <header>
+      
       <h1 class="h1">
         {{ page.title }}<span class="blink">|</span>
       </h1>
+      <button class="js-toggle-dark-mode" type="button">Dark mode</button>
       {% if page.collection == 'posts' %}<small>{{ page.date | date_to_string }}</small><br>{% endif %}
       {% if page.path != 'index.html' and page.path != 'zh-TW/index.html' %}
         <small><a href="/"> $ cd ~</a></small>
