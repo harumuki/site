@@ -67,6 +67,13 @@ a {
   }
 }
 
+mark {
+  color: {{ page.modes.light.foreground }};
+  background-color: {{ page.modes.light.mark_background }};
+
+  a { text-decoration: none; padding: 0 0.3em; }
+}
+
 *:focus {
   outline: 3px solid #ee8;
   outline-offset: 3px;
