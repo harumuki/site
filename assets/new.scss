@@ -23,6 +23,7 @@ modes:
 
   a {
     color: {{ page.modes.dark.link_foreground }};
+    text-decoration: none; padding: 0 0.3em;
 
     &:hover {
       background: {{ page.modes.dark.foreground }};
