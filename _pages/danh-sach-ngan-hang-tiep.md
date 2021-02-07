@@ -11,12 +11,12 @@ image_text: |
 
 ## Danh sách ngân hàng
 
-CIMB: 
-00336500201403
-HSBC: 
-004143665001
-TechcomBank: 
-19036783796010
+Ngân hàng CIMB: 
+**00336500201403**
+Ngân hàng HSBC: 
+**004143665001**
+Ngân hàng TechcomBank: 
+**19036783796010**
 
 
 ## Hình ảnh dùng chung
