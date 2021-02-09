@@ -18,9 +18,9 @@ Hôm nay rảnh ngồi tự mò mẫm lại quản lý domain ở Yahoo Small Bu
 
 ## Cách đăng nhập
 
-\- **Bước 1**: bạn bấm vào link liên kết sau **[https://login.yahoosmallbusiness.com]**(https://login.yahoosmallbusiness.com/)
+\- **Bước 1**: bạn bấm vào link liên kết này 👉 **[https://login.yahoosmallbusiness.com]**(https://login.yahoosmallbusiness.com/)
 
-\- **Bước 2**: Sau khi đăng nhập băng username và mật khẩu, bạn bấm tiếp vào link liên kết này [http://dashboard.yahoosmallbusiness.com](http://dashboard.yahoosmallbusiness.com/)
+\- **Bước 2**: Sau khi đăng nhập băng username và mật khẩu, bạn bấm tiếp vào link liên kết 👉 [http://dashboard.yahoosmallbusiness.com](http://dashboard.yahoosmallbusiness.com/)
 
 In the last 7 years I met so many great people, and got to step into worlds that I didn’t think I belonged in. I’m extremely thankful to those of you who welcomed me with open arms and helped me along the way, internally and externally.
 
