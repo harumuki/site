@@ -22,7 +22,7 @@ Hôm nay rảnh ngồi tự mò mẫm lại quản lý domain ở Yahoo Small Bu
 
 \- **Bước 2**: Sau khi đăng nhập băng username và mật khẩu, bạn bấm tiếp vào link liên kết 👉 [**http://dashboard.yahoosmallbusiness.com**](http://dashboard.yahoosmallbusiness.com/)
 
-\- **Bước 3**: Để ý Menu bên trái màn hình laptop, bạn sẽ thấy có **Online**, bấm vào đó nó sẽ hiện tiếp 👉 **Domains**
+\- **Bước 3**: Để ý Menu bên trái màn hình laptop, bạn sẽ thấy có 👉 **Online**, bấm vào đó nó sẽ hiện tiếp 👉 **Domains**
 
 Lúc này domain của bạn sẽ hiện ra để bạn quản lý DNS, hoặc chuyển đi dễ dàng.
 
