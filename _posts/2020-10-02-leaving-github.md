@@ -1,11 +1,11 @@
 ---
 layout: default
-date: 2020-10-02
-title: Leaving GitHub
+date: 2021-02-09
+title: Hướng dẫn đăng nhập và quản lý domain ở Yahoo Small Business
 feature: 1
 image_text: |
   :octopus::cat_face::end_arrow:
-  Leaving GitHub
+  Hướng dẫn đăng nhập và quản lý domain ở Yahoo Small Business
 ---
 
 <iframe width="150" height="150" src="https://www.youtube-nocookie.com/embed/kuhqvJRt_3E?playsinline=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
