@@ -14,7 +14,11 @@ image_text: |
 <a href="https://vi.chiasenhac.vn/mp3/tran-bach-cuong/mot-doi-cau-mong-gi-tsvb700tqqtnnf.html">Một Đời Cầu Mong Gì?</a> hát bởi <a href="https://tranthuychinh.com">Trần Bách Cường</a>
 </div>
 
-Today is my last day at GitHub. 
+Hôm nay rảnh ngồi tự mò mẫm lại quản lý domain ở Yahoo Small Business, mặc dù nó cùi bắp thật nhưng giá rẻ bèo, thích hợp cho những ai nghèo khó muốn tiết kiệm chút tiền, tại thời điểm viết bài thì giá chỉ $1 cho tên miền .com ở đây.
+
+## Cách đăng nhập
+
+\- **Bước 1**: bạn bấm vào link liên kết sau [https://login.yahoosmallbusiness.com/](https://login.yahoosmallbusiness.com/)
 
 In the last 7 years I met so many great people, and got to step into worlds that I didn’t think I belonged in. I’m extremely thankful to those of you who welcomed me with open arms and helped me along the way, internally and externally.
 
