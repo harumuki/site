@@ -8,10 +8,10 @@ image_text: |
   Hướng dẫn đăng nhập và quản lý domain ở Yahoo Small Business
 ---
 
-<iframe width="150" height="150" src="https://www.youtube-nocookie.com/embed/kuhqvJRt_3E?playsinline=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="150" height="150" src="https://www.youtube-nocookie.com/embed/_89xifmWoTI?playsinline=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div style="margin-top: -.7em; font-size: .7em;">
-<a href="https://www.jpopasia.com/mayday/lyrics/37158/maydays-1st-album/hey-im-leaving-%E5%98%BF-%E6%88%91%E8%A6%81%E8%B5%B0%E4%BA%86/">Hey! I'm leaving</a> by <a href="https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY">Mayday</a>
+<a href="https://vi.chiasenhac.vn/mp3/tran-bach-cuong/mot-doi-cau-mong-gi-tsvb700tqqtnnf.html">Một Đời Cầu Mong Gì?</a> hát bởi <a href="https://tranthuychinh.com">Trần Bách Cường</a>
 </div>
 
 Today is my last day at GitHub. 
