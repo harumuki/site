@@ -10,6 +10,8 @@ footer_content: "Con GA đang kéo PIN của Phạm Xuân Tiếp 0337036819"
 ---
 
 Mình đang kéo con ga Google AdSense 🚨 quốc tịch **UK** này có pin.
+Đây là một bước tiến lớn của mình làm ra được, tạo được và từng bước giúp tiếp cận vấn đề và làm cho ga nhận PIN.
+
 
 ![](/images/miengcommanhao.png)
 <div style="margin-top: -.7em; font-size: .7em;">
