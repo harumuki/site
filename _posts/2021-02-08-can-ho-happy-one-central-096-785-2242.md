@@ -27,7 +27,7 @@ Chủ đầu tư: Công ty cổ phần Tập đoàn Địa Ốc Vạn Xuân
 Đơn vị quản lý: Anabuki – Nhật Bản
 Diện tích: 10.162,2 m2
 Mật độ xây dựng: 34,19%
-Tiện ích: Hồ bơi tràn bờ, quảng trường chân mây, công viên trung tâm,đường chạy bộ đa năng, yoga, xông hơi,…..Đặc biệt, dự án sẽ áp dụng công nghệ 4.0, phủ wifi toàn bộ dự án.
+Tiện ích: Hồ bơi tràn bờ, quảng trường chân mây, công viên trung tâm,đường chạy bộ đa năng, yoga, xông hơi... Đặc biệt, dự án sẽ áp dụng công nghệ 4.0, phủ wifi toàn bộ dự án.
 Quy mô: 40 tầng + 3 tầng hầm
 Số lương căn hộ (dự kiến): 1.287 căn hộ + 14 shophouse
 + Block A có 17 căn 1 tầng
