@@ -37,3 +37,7 @@ Diện tích căn hộ: 49 – 68 – 91m2, cho căn hộ 1 đến 3 phòng ng�
 + 2PN: 55,24%.
 + 3PN: 9,25%.
 
+## Xem bài viết đăng trên Facebook tại đây
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcytimy%2Fvideos%2F156749919466929%2F&width=734&show_text=true&height=900&appId" width="734" height="900" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
