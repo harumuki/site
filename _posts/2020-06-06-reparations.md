@@ -58,4 +58,4 @@ Trayvon 有權過他的人生，如同 [Amadou Diallo (23)](https://en.wikipedia
 
 ---
 
-[翻譯後記 Thoughts on "Reparations"]({% link _posts/2020-06-06-thoughts-on-reparations.md %})
+[翻譯後記 Thoughts on "Reparations"]({% link _posts/2020-06-06-review-sim-vietnamobile.md %})
