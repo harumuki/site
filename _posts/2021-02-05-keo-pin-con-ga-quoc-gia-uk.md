@@ -27,6 +27,10 @@ Mình đang kéo con ga Google AdSense 🚨 quốc tịch **UK** này có pin.
 
 ## Quá trình kéo PIN
 
+Sau khi ga đã active được 1 ngày, thì bắt đầu quá trình kéo.
+Tức là active hôm 04/02 thì sang hôm 05/02 là bắt đầu kéo.
+
+
 Địa chỉ nhận PIN được thiết lập tới địa chỉ cố định tại UK của Nguyễn Văn Quốc.
 
 \- Sau đó nhận lượng traffic tự nhiên từ 2500 tới hơn 3300 traffic từ tên miền chính là [Gushop.eu](https://gushop.eu).
