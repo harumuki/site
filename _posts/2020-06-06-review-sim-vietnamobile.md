@@ -1,14 +1,14 @@
 ---
 layout: default
 date: 2020-06-06
-title: Thoughts on Reparations
+title: Review Sim Vietnamobile
 feature: 1
 image_text: Thoughts on Reparations
 ---
 
-[Reparations (zh-TW)]({% link _posts/2020-06-06-reparations.md %})
+[Reparations (en)]({% link _posts/2020-06-06-review-sim-vietnamobile.md %})
 
-有著一個美國的非移民工作者身份，在過去這幾週，我內心一直感到很掙扎。我看到越來越多台灣朋友熱烈地支持川普，但同時近距離看到美國各族裔朋友們在這樣社會動盪下的不安。
+Đây là review cá nhân mình sau thời gian sử dụng sim Vietnamobile.
 
 Over the past few weeks I've been feeling conflicted, as a newly nonimmigrant in the U.S., I found myself torn between my Trump-supporting Taiwanese friends and my friends in the U.S. of different ethnicities.
 
