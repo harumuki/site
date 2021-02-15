@@ -1,11 +1,11 @@
 ---
 layout: default
 date: 2020-06-06
-title: Reparations（中文）
+title: Những thứ cần mua trong năm 2021
 feature: 1
 ---
 
-Translation for [Reparations——What being Armenian taught me about #BlackLivesMatter](https://armenianweekly.com/2020/06/04/reparations-3/).
+Do quá thiếu thốn, hoặc những món này cần mua về gấp 🐈.
 
 ---
 
@@ -58,4 +58,4 @@ Trayvon 有權過他的人生，如同 [Amadou Diallo (23)](https://en.wikipedia
 
 ---
 
-[翻譯後記 Thoughts on "Reparations"]({% link _posts/2020-06-06-review-sim-vietnamobile.md %})
+[Đề xuất: Mua căn hộ Happy One Central]({% link _posts/2021-02-08-can-ho-happy-one-central-096-785-2242.md %})
