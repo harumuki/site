@@ -39,4 +39,9 @@ Tức là active hôm 04/02 thì sang hôm 05/02 là bắt đầu kéo.
 
 Dự đoán sẽ nhận được PIN trong khoảng 15 ngày sau khi đạt được ngưỡng nhận PIN.
 
+## Gửi pin
+
+Hôm 15/2 thì đã Google đã gửi pin đi tới địa chỉ ghi sẵn trong thanh toán, chờ xác minh pin.
+
+![](/images/tiep/pind.jpg)
 
