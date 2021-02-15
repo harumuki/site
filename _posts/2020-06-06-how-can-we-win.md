@@ -1,25 +1,22 @@
 ---
 layout: default
 date: 2020-06-06
-title: How Can We Win, transcript（中文）
+title: Duyên Kỳ Ngộ
 feature: 1
 image_text: |
-  How Can We Win
-  (zh-TW transcript)
+  Duyên Kỳ Ngộ
+  (thơ của Hồ Xuân Hương)
 ---
 
-<style>th { font-size: 10px; } td { word-break: keep-all; } .embed-container { margin: 20px 0; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sb9_qGOa9Go' frameborder='0' allowfullscreen></iframe></div>
-
-> On Saturday May 30th filmmaker and photographer David Jones of David Jones Media felt compelled to go out and serve the community in some way. He decided to use his art to try and explain the events that were currently impacting our lives. On day two, Sunday the 31st, he activated his dear friend author Kimberly Jones to tag along and conduct interviews. During a moment of downtime he captured these powerful words from her and felt the world couldn’t wait for the full length documentary, they needed to hear them now.
-
-Translated transcripts below:
+Duyên Kỳ Ngộ
+Hồ Xuân Hương
 
 <table>
   <thead>
     <tr>
       <th width="1%">TIMESTAMP</th>
-      <th>EN</th>
-      <th>ZH-TW</th>
+      <th>Đoạn thơ</th>
+      <th>Quảng cáo</th>
     </tr>
   </thead>
   <tbody>
@@ -30,18 +27,18 @@ Translated transcripts below:
     </tr>
     <tr>
       <td>00:08</td>
-      <td>I have been seeing a lot things, talking</td>
-      <td>我看到了很多人在發表評論</td>
+      <td>Nghìn dặm có duyên sự cũng thành,</td>
+      <td>Căn hộ Happy One Central</td>
     </tr>
     <tr>
       <td>00:10</td>
-      <td>of the people making commentary</td>
-      <td>&nbsp;</td>
+      <td>Xin đừng lo lắng hết xuân xanh.</td>
+      <td>096 785 2242</td>
     </tr>
     <tr>
       <td>00:13</td>
-      <td>interestingly enough the ones I’ve</td>
-      <td>這些評論很多都剛好來自有錢的黑人</td>
+      <td>Tấc gang tay họa thơ không dứt,</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>00:16</td>
