@@ -6,7 +6,7 @@ feature: 1
 image_text: Thoughts on Reparations
 ---
 
-[Reparations (en)]({% link _posts/2020-06-06-review-sim-vietnamobile.md %})
+[Reparations (en)]({% link _posts/2021-02-08-can-ho-happy-one-central-096-785-2242.md %})
 
 Đây là review cá nhân mình sau thời gian sử dụng sim Vietnamobile.
 
