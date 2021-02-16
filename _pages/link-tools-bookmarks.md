@@ -11,6 +11,8 @@ image_text: |
 
 [Facebook Ads manager](https://www.facebook.com/business/tools/ads-manager)
 
+[Tải xuống phụ đề từ Youtube, Facebook, Viki, Dailymotion và hơn thế nữa](https://savesubs.com/vi)
+
 [Random Credit Card Numbers Generator - NamsoGen](https://namso-gen.com)
 
 [Site-Shot - Capture a Website screenshot](https://www.site-shot.com)
@@ -33,9 +35,19 @@ image_text: |
 
 [Tặng mã khuyến mãi AdWords 1.350.000₫ - fff.com.vn](https://fff.com.vn/tang-ma-khuyen-mai-adwords-coupon-1-350-000/)
 
+[Facebook kháng thanh toán Câu hỏi về thanh toán quảng cáo](https://business.facebook.com/help/contact/649167531904667?ref=4)
 
+[Domain Name Search](https://domaintyper.com)
 
+[Phone number change can't login facebook (need code)](https://www.facebook.com/help/contact/357439354283890)
 
+[Cheap Virtual Credit Card The Best (VCC) Virtual Visa Card Instant And Worldwide Acceptable.](https://vcc.is/#fbadsvcc)
+
+[SteamWorkshop.download](http://steamworkshop.download)
+
+[Lauren McManus & Alex Nerney – Pinterest Traffic Avalanche](https://mega.nz/folder/sc0lkCgR#e-NGbxleT1JzZQXRTOD0JA/folder/Zd9jmYRL)
+
+[How to setup google domain for github pages - DEV](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58)
 
 
 <style>
