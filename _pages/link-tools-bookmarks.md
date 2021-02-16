@@ -17,6 +17,8 @@ image_text: |
 
 [Random UK Addresses Generator](https://www.doogal.co.uk/RandomAddresses.php)
 
+[Dự báo thời tiết chuẩn nhất](https://darksky.net/forecast/10.997,106.671/us12/en)
+
 <style>
   h2 + p { margin-top: -1.2em; font-size: .8em; }
   article ul { list-style: square; }
