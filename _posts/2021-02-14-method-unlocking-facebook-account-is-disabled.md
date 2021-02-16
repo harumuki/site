@@ -18,7 +18,7 @@ The success rate depends on the degree of luck, as I am 70%
 Use the verified identity as Nick best, to keep tk ads and against = this nick
 No need to change 3g, no need to change devices, no need to fake IP at all,
 The point is, we combine 1 tk ADS ID with the remaining 4 links, using all of them to increase the odds of success.
-if the response is ... "Wait 2 .... 3 days" is considered resistant high success rate
+if the response is ... "Wait 2 ... 3 days" is considered resistant high success rate
 In case of objections, it returns to link 273, you should remove, this account must verify, hard to resist then Chat Support
 Alternatively, you can go to the Chat Assistant link but cannot chat, you can also object by email
 The purpose of the above forms, is for FB to receive information you are locked out of your account! It then categorizes which instances are locked and generates an open rate or not
