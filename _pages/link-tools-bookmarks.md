@@ -49,6 +49,10 @@ image_text: |
 
 [How to setup google domain for github pages - DEV](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58)
 
+[Bing Ads Accounts – account market](https://accountmarket.digital/product/bass-super-loud-snail-horn-2-3/)
+
+[Hashnode: Everything you need to start blogging as a developer!](https://hashnode.com)
+
 
 <style>
   h2 + p { margin-top: -1.2em; font-size: .8em; }
