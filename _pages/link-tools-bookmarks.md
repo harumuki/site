@@ -55,6 +55,8 @@ image_text: |
 
 [Life Benefits - Home](https://www.life-benefits.com)
 
+[How Much Bandwidth and Disk Space Do I Really Need?](https://www.hostingmanual.net/bandwidth-disk-space-need/)
+
 
 <style>
   h2 + p { margin-top: -1.2em; font-size: .8em; }
