@@ -19,6 +19,12 @@ image_text: |
 
 [Dự báo thời tiết chuẩn nhất](https://darksky.net/forecast/10.997,106.671/us12/en)
 
+[Canva.com](https://www.canva.com)
+
+[Migrating your Jekyll site to Netlify | Netlify](https://www.netlify.com/blog/2017/05/11/migrating-your-jekyll-site-to-netlify/)
+
+[Buy Adwords Accounts | Buy Adwords Coupon, Bing Ads Coupon | BestAccounts](https://bestaccounts.net)
+
 <style>
   h2 + p { margin-top: -1.2em; font-size: .8em; }
   article ul { list-style: square; }
