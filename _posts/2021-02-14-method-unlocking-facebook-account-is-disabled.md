@@ -11,7 +11,9 @@ LINK 2: https://www.facebook.com/help/contact/2026068680760273
 LINK 3: https://www.facebook.com/help/contact/?id=161710477317189
 LINK 4: https://www.facebook.com/help/contact/649167531904667
 Chat Support: https://business.facebook.com/business/help/
-Suggestions for complaints:
+
+## Suggestions for complaints:
+
 The success rate depends on the degree of luck, as I am 70%
 Use the verified identity as Nick best, to keep tk ads and against = this nick
 No need to change 3g, no need to change devices, no need to fake IP at all,
