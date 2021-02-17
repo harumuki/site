@@ -28,6 +28,8 @@ Ngân hàng TechcomBank:
 
 Kể từ tháng 11/2020, Tiếp không còn sử dụng **VCB** nữa, do chi phí quá cao, ngoài phí tháng truy thu, còn vô số các khoản phí chuyển khoản bên lề như phí rút tiền, phí quản lý thẻ, phí chuyển tiền, vân vân...
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ZYbU82GVz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <style>
   h2 + p { margin-top: -1.2em; font-size: .8em; }
   article ul { list-style: square; }
