@@ -1,6 +1,7 @@
 ---
 layout: default
 title: gushopvnxk.com Shop quần áo Việt nam xuất khẩu hàng đầu
+date: 2021-02-23
 ---
 
 Nếu bạn có nhu cầu hãy liên hệ với fanpage chính thức của shop tại địa chỉ sau:
