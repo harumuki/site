@@ -24,9 +24,9 @@ Tức là active hôm 09/02 thì đêm hôm 02/03 là bắt đầu kéo.
 
 \- Sau đó nhận lượng traffic tự nhiên từ 10 tới hơn 20 traffic từ Google
 
-\- Đồng thời cũng nhận một lượng traffic nhỏ hơn, nhưng chất lượng hơn tại subdomain của tên miền tại [Aniqlo.com](https://Aniqlo.com)
+\- Đồng thời cũng nhận một lượng traffic cao hơn, nhưng chất lượng hơn tại  của tên miền tại [Aniqlo.com](https://Aniqlo.com) được triển khai trên quảng cáo facebook
 
-Dự đoán sẽ nhận được PIN trong khoảng 15 ngày sau khi đạt được ngưỡng nhận PIN.
+Dự đoán sẽ nhận được PIN trong khoảng 10 ngày sau khi đạt được ngưỡng nhận PIN.
 
 ## Gửi pin
 
