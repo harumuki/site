@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2021-03-08
+date: 2021-03-07
 title: Tiếp Video Creator trên facebook
 feature: 1
 image_text: |
